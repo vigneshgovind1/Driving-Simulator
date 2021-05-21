@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6563865818355626617}
   - component: {fileID: 8702920420438515147}
   - component: {fileID: 4665028245309032898}
+  - component: {fileID: 5117889414830760317}
   m_Layer: 0
   m_Name: Asphalt_B
   m_TagString: Untagged
@@ -81,6 +82,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &5117889414830760317
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57606181157353132}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 7.9999933, y: 0.50000006, z: 3.9999967}
+  m_Center: {x: 0, y: -0.24999999, z: -0.000000059604645}
 --- !u!1 &6619244500207371006
 GameObject:
   m_ObjectHideFlags: 0
