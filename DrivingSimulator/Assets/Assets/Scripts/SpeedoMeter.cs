@@ -12,13 +12,15 @@ public class SpeedoMeter : MonoBehaviour
     public int speedLimit;
 
     private float speed;
+    private Vector3 position;
     // Update is called once per frame
     void Update()
     {
         
-        speed = target.velocity.magnitude * 3.0f;
+        speed = target.velocity.magnitude * 2.9f;
+        position = target.position;
         colorcheck((int)speed);
-        Debug.Log((int)speed);
+        Debug.Log(speed +" "+position);
         SpeedText.text = ((int)speed) + " MPH";
     }
     void colorcheck(int speed)
