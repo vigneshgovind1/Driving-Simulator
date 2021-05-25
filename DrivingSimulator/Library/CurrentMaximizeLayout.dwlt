@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 677, y: 471}
-  m_MaxSize: {x: 14000, y: 14021}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 13087
+  controlID: 1688
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,10 +135,10 @@ MonoBehaviour:
     y: 0
     width: 1172.8
     height: 731
-  m_MinSize: {x: 402, y: 471}
-  m_MaxSize: {x: 10000, y: 14021}
+  m_MinSize: {x: 402, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 13059
+  controlID: 1689
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 13060
+  controlID: 1690
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3e9effff2efbffff
+      m_ExpandedIDs: ac7affffe0e9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -307,9 +307,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -115.94747, y: -28.215157, z: 181.48424}
+    m_Target: {x: 496.56653, y: 108.66577, z: -155.05798}
     speed: 2
-    m_Value: {x: -115.94747, y: -28.215157, z: 181.48424}
+    m_Value: {x: 496.56653, y: 108.66577, z: -155.05798}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -356,17 +356,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.26499188, y: -0.47522056, z: 0.15271772, w: -0.82506615}
+    m_Target: {x: -0.07817219, y: -0.039458603, z: 0.0031581938, w: -0.9962105}
     speed: 2
-    m_Value: {x: -0.26497704, y: -0.47519395, z: 0.15270917, w: -0.8250199}
+    m_Value: {x: -0.07816777, y: -0.039456367, z: 0.003158015, w: -0.9961541}
   m_Size:
-    m_Target: 118.103195
+    m_Target: 270.79706
     speed: 2
-    m_Value: 118.103195
+    m_Value: 270.79706
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
@@ -406,8 +406,8 @@ MonoBehaviour:
     y: 460
     width: 1172.8
     height: 271
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -452,22 +452,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets/Prefabs/buildings and road
+    - Assets/Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Assets/Prefabs/buildings and road
+  - Assets/Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Developer Programs\Git\Driving sim\Driving-Simulator\DrivingSimulator
+  m_LastProjectPath: E:\Github\Driving-Simulator\DrivingSimulator
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: e44e0000
-    m_LastClickedID: 20196
-    m_ExpandedIDs: 00000000d04e0000d24e0000d44e0000d64e0000d84e0000da4e0000dc4e0000de4e0000e24e000000ca9a3b
+    m_SelectedIDs: 3c640000
+    m_LastClickedID: 25660
+    m_ExpandedIDs: 000000001c6400001e64000020640000226400002464000026640000286400002a6400003464000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -495,7 +495,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d04e0000d24e0000d44e0000d64e0000d84e0000da4e0000dc4e0000de4e000000ca9a3b
+    m_ExpandedIDs: 000000001c6400001e64000020640000226400002464000026640000286400002a6400003464000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,8 +520,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 1c830000
+    m_LastClickedInstanceID: 33564
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -633,8 +633,8 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastInspectedObjectInstanceID: 33564
+  m_LastVerticalScrollValue: 52
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
