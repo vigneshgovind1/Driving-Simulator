@@ -14,8 +14,8 @@ GameObject:
   - component: {fileID: 7423093278720083331}
   - component: {fileID: 3308116185905293108}
   m_Layer: 0
-  m_Name: baum hd pine fbx
-  m_TagString: Untagged
+  m_Name: tree 2
+  m_TagString: tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

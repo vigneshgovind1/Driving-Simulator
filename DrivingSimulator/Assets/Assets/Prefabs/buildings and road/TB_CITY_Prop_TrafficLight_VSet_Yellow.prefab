@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2667087399585992476}
   m_Layer: 0
   m_Name: TB_CITY_Prop_TrafficLight_VSet_Yellow
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
