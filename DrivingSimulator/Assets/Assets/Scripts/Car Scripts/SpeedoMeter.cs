@@ -28,6 +28,7 @@ public class SpeedoMeter : MonoBehaviour
         if(speed>=speedLimit)
         {
             SpeedText.color =Color.red;
+            Debug.Log("You are over the speed limit!");
         }
 
         else if(speed == 0)
@@ -44,4 +45,6 @@ public class SpeedoMeter : MonoBehaviour
             SpeedText.color = Color.green;
         }
     }
+
+
 }

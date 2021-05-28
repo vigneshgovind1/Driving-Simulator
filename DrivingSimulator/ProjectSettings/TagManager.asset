@@ -8,6 +8,7 @@ TagManager:
   - obstacle
   - sidewalk
   - tree
+  - offroad
   layers:
   - Default
   - TransparentFX

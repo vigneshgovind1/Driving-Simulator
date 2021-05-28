@@ -28,5 +28,10 @@ public class carWheelColliderScript : MonoBehaviour
         {
             Debug.Log("You are on the sidewalk!");
         }
+
+        if (other.gameObject.tag == "offroad")
+        {
+            Debug.Log("You are off the road!");
+        }
     }
 }
