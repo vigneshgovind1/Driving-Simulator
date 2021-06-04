@@ -9,6 +9,7 @@ public class SpeedoMeter : MonoBehaviour
     public Rigidbody target;
     [Header("UI")]
     public Text SpeedText;
+    public Text message;
     public int speedLimit;
 
     private float speed;
@@ -27,6 +28,7 @@ public class SpeedoMeter : MonoBehaviour
     {
         if(speed>=speedLimit)
         {
+            message.text = "You are over the speed limit!";
             SpeedText.color =Color.red;
             Debug.Log("You are over the speed limit!");
         }
