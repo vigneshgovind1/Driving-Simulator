@@ -49,7 +49,8 @@
   <ItemGroup>
      <Compile Include="Assets\Assets\Scripts\Car Scripts\SpeedoMeter.cs" />
      <Compile Include="Assets\Assets\Scripts\Car Scripts\carCameraScript.cs" />
-     <Compile Include="Assets\TrafficLightSystem.cs" />
+     <Compile Include="Assets\Assets\Scripts\Traffic\TrafficLightSystem.cs" />
+     <Compile Include="Assets\Assets\Scripts\Traffic\CarTraffic.cs" />
      <Compile Include="Assets\Assets\Scripts\Car Scripts\carWheelColliderScript.cs" />
      <Compile Include="Assets\Assets\Scripts\NPC\NPC_Script.cs" />
      <Compile Include="Assets\Assets\Scripts\Car Scripts\carColliderScript.cs" />
