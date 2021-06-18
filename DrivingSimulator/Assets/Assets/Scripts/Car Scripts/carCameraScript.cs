@@ -7,7 +7,7 @@ public class carCameraScript : MonoBehaviour
 
     float rotationOnX;
     float rotationOnY;
-    public float mouseSensitivity = 60f;
+    public float mouseSensitivity = 40f;
 
     // Start is called before the first frame update
     void Start()
