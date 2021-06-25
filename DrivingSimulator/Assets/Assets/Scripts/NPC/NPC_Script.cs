@@ -6,10 +6,13 @@ public class NPC_Script : MonoBehaviour
 {
 
     public Transform[] waypoints;
-    public int speed;
+    public float speed = 3f;
 
     private int waypointIndex;
     private float dist;
+
+  
+
 
     // Start is called before the first frame update
     void Start()
@@ -47,5 +50,13 @@ public class NPC_Script : MonoBehaviour
         }
 
   
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            Debug.Log("You hit a pedestrian");
+        }
     }
 }

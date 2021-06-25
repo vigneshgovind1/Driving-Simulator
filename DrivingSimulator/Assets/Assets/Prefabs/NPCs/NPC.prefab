@@ -80,7 +80,7 @@ MonoBehaviour:
   waypoints:
   - {fileID: 0}
   - {fileID: 0}
-  speed: 5
+  speed: 3
 --- !u!1 &9096335696624132031
 GameObject:
   m_ObjectHideFlags: 0
