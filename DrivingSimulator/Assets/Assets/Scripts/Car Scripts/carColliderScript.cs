@@ -77,13 +77,17 @@ public class carColliderScript : MonoBehaviour
             message.text = "You hit a person!";
             Debug.Log("You hit a person!");
         }
+
+        else if (collision.gameObject.tag == "traffic")
+        {
+            message.enabled = true;
+            timeToDisappear = Time.time + timeToAppear;
+
+            message.text = "You hit a car!";
+            Debug.Log("You hit a car!");
+        }
     }
 
-
-    private void OnCollisionExit(Collision collision)
-    {
-        
-    }
 
 
 }

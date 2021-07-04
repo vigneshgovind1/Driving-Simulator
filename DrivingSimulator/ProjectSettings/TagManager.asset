@@ -11,6 +11,7 @@ TagManager:
   - offroad
   - NPC
   - stops
+  - traffic
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - UI
   - AI waypoints
   - Traffic
-  - 
+  - TrafficTriggers
   - 
   - 
   - 

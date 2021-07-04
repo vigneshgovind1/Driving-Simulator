@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 6058552472814836992}
   m_Layer: 7
   m_Name: Sedan 1
-  m_TagString: Untagged
+  m_TagString: traffic
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -136,7 +136,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6058552472814836993}
   serializedVersion: 2
-  m_Mass: 50
+  m_Mass: 200
   m_Drag: 0
   m_AngularDrag: 0.5
   m_UseGravity: 1
@@ -161,6 +161,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   speed: 8
+  rotateSpeed: 3.5
 --- !u!1 &6058571241025359973
 GameObject:
   m_ObjectHideFlags: 0

@@ -460,7 +460,7 @@ GameObject:
   - component: {fileID: 5457109559332651256}
   m_Layer: 7
   m_Name: Police Car
-  m_TagString: Untagged
+  m_TagString: traffic
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -489,7 +489,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5457743769015743750}
   serializedVersion: 2
-  m_Mass: 50
+  m_Mass: 200
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1

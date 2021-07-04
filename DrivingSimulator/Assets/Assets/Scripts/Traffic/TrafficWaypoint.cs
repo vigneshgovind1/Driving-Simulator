@@ -41,9 +41,14 @@ public class TrafficWaypoint : MonoBehaviour
     }
 
     void Update(){
+
+        //to make vehicle stop on red light trigger
         if(isStop){
+
             speed=0;
-        }else{
+
+        } else {
+
             speed=8;
         }
     }
@@ -82,5 +87,15 @@ public class TrafficWaypoint : MonoBehaviour
             isStop = false;
         }
     }
+
+
+    /*private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            speed = 0;
+            Debug.Log("Hit the player");
+        }
+    }*/
 
 }
