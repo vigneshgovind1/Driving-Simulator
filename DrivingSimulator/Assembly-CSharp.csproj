@@ -56,14 +56,17 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Skybox\Demo\Scripts\LookCamera.cs" />
     <Compile Include="Assets\Assets\Scripts\Car Scripts\SpeedoMeter.cs" />
     <Compile Include="Assets\Assets\Scripts\Car Scripts\carCameraScript.cs" />
     <Compile Include="Assets\Assets\Scripts\Traffic\TrafficLightSystem.cs" />
+    <Compile Include="Assets\Assets\Scripts\NPC\CrossingNPC_script.cs" />
     <Compile Include="Assets\Assets\Scripts\Traffic\CarTraffic.cs" />
     <Compile Include="Assets\Assets\Scripts\Car Scripts\carWheelColliderScript.cs" />
     <Compile Include="Assets\Assets\Scripts\NPC\NPC_Script.cs" />
+    <Compile Include="Assets\Skybox\Demo\Scripts\SkyboxChanger.cs" />
     <Compile Include="Assets\Assets\Scripts\Car Scripts\carColliderScript.cs" />
-    <Compile Include="Assets\Assets\Scripts\NPC\CrossingNPC_script.cs" />
+    <Compile Include="Assets\Assets\Scripts\Traffic\TrafficWaypoint.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\laxer tree pkg\README.txt" />

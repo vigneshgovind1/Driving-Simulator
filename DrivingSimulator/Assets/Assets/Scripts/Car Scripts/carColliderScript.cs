@@ -68,6 +68,15 @@ public class carColliderScript : MonoBehaviour
             message.text = "You hit a tree!";
             Debug.Log("You hit a tree!");
         }
+
+        else if (collision.gameObject.tag == "NPC")
+        {
+            message.enabled = true;
+            timeToDisappear = Time.time + timeToAppear;
+
+            message.text = "You hit a person!";
+            Debug.Log("You hit a person!");
+        }
     }
 
 
