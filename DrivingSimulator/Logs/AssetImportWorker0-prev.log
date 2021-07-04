@@ -15,11 +15,11 @@ C:/Developer Programs/Git/Driving sim/Driving-Simulator/DrivingSimulator
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57914
+61826
 Successfully changed project path to: C:/Developer Programs/Git/Driving sim/Driving-Simulator/DrivingSimulator
 C:/Developer Programs/Git/Driving sim/Driving-Simulator/DrivingSimulator
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 55.25 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 53.88 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path C:/Unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,162 +35,346 @@ Initialize mono
 Mono path[0] = 'C:/Unity/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56356
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56748
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007144 seconds.
+Registered in 0.007898 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 78.19 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 57.18 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.037 seconds
+- Completed reload, in  5.395 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002386 seconds.
+Registered in 0.002677 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2.70 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.109 seconds
+- Completed reload, in  2.105 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
-Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1157 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 62.5 MB.
-System memory in use after: 62.6 MB.
+System memory in use after: 62.5 MB.
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1622.
-Total: 3.812700 ms (FindLiveObjects: 0.349000 ms CreateObjectMapping: 0.050900 ms MarkObjects: 3.227600 ms  DeleteObjects: 0.180900 ms)
+Total: 6.831800 ms (FindLiveObjects: 0.641000 ms CreateObjectMapping: 0.313900 ms MarkObjects: 5.608500 ms  DeleteObjects: 0.263400 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs
   artifactKey: Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs using Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '669c68b1b6f5e311db287ad3ad90a91e') in 0.120980 seconds
-  Import took 0.127865 seconds .
+Start importing Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs using Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f25dd52feb765d722db09fd99549bf') in 0.076330 seconds
+  Import took 0.081213 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 150.695532 seconds.
+  Time since last request: 603.828207 seconds.
   path: Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs
   artifactKey: Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs using Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400be6ee17a6044e62a7476331a1788e') in 0.013954 seconds
-  Import took 0.019291 seconds .
+Start importing Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs using Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d2f8298ef25289f841773b3bb095eb') in 0.011149 seconds
+  Import took 0.018912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004841 seconds.
+  path: Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs
+  artifactKey: Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Traffic/TrafficWaypoint.cs using Guid(b079c65ab56fb1d4ba09ba7c867c9fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d2f8298ef25289f841773b3bb095eb') in 0.007925 seconds
+  Import took 0.012453 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002327 seconds.
+Registered in 0.002128 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.91 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.684 seconds
+- Completed reload, in  2.360 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 62.0 MB.
 System memory in use after: 62.1 MB.
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1625.
-Total: 3.888300 ms (FindLiveObjects: 0.379600 ms CreateObjectMapping: 0.054700 ms MarkObjects: 3.405900 ms  DeleteObjects: 0.044400 ms)
+Total: 4.144400 ms (FindLiveObjects: 0.455800 ms CreateObjectMapping: 0.095500 ms MarkObjects: 3.553100 ms  DeleteObjects: 0.037100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002220 seconds.
+Registered in 0.002427 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.015 seconds
+- Completed reload, in  1.962 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 62.0 MB.
 System memory in use after: 62.1 MB.
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1628.
-Total: 3.893000 ms (FindLiveObjects: 0.460800 ms CreateObjectMapping: 0.091500 ms MarkObjects: 3.291500 ms  DeleteObjects: 0.045000 ms)
+Total: 4.415300 ms (FindLiveObjects: 0.338900 ms CreateObjectMapping: 0.074400 ms MarkObjects: 3.956100 ms  DeleteObjects: 0.042900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001993 seconds.
+Registered in 0.002148 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.868 seconds
+- Completed reload, in  1.884 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 62.0 MB.
 System memory in use after: 62.1 MB.
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 4.534000 ms (FindLiveObjects: 0.537600 ms CreateObjectMapping: 0.087500 ms MarkObjects: 3.864100 ms  DeleteObjects: 0.041500 ms)
+Total: 4.780900 ms (FindLiveObjects: 0.345700 ms CreateObjectMapping: 0.049200 ms MarkObjects: 4.341900 ms  DeleteObjects: 0.042100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002352 seconds.
+Registered in 0.002823 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.035 seconds
+- Completed reload, in  1.960 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.0 MB.
+System memory in use after: 62.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 5.460900 ms (FindLiveObjects: 0.501500 ms CreateObjectMapping: 0.129800 ms MarkObjects: 4.784300 ms  DeleteObjects: 0.041600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003605 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.048 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 62.1 MB.
 System memory in use after: 62.2 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1634.
-Total: 4.425200 ms (FindLiveObjects: 0.484300 ms CreateObjectMapping: 0.111200 ms MarkObjects: 3.788000 ms  DeleteObjects: 0.038700 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 5.012700 ms (FindLiveObjects: 0.401600 ms CreateObjectMapping: 0.057700 ms MarkObjects: 4.499600 ms  DeleteObjects: 0.050000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002112 seconds.
+Registered in 0.002161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.913 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 4.587400 ms (FindLiveObjects: 0.707900 ms CreateObjectMapping: 0.258500 ms MarkObjects: 3.567200 ms  DeleteObjects: 0.049700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002078 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.293 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 5.248100 ms (FindLiveObjects: 0.685500 ms CreateObjectMapping: 0.137700 ms MarkObjects: 4.386900 ms  DeleteObjects: 0.034800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.029 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 3.915300 ms (FindLiveObjects: 0.512700 ms CreateObjectMapping: 0.077100 ms MarkObjects: 3.282200 ms  DeleteObjects: 0.040400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002501 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.173 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 4.043900 ms (FindLiveObjects: 0.529500 ms CreateObjectMapping: 0.085300 ms MarkObjects: 3.383900 ms  DeleteObjects: 0.041400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1350.659243 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Taxi.prefab
+  artifactKey: Guid(7fcd487f2d008c943a6ffc7732bfa5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Taxi.prefab using Guid(7fcd487f2d008c943a6ffc7732bfa5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96cd7f3598226ef0c11f2ed33ce3d66') in 0.298777 seconds
+  Import took 0.305141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000771 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Suv.prefab
+  artifactKey: Guid(a6c31a9f9e41e0f49ae7668cd0cdd9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Suv.prefab using Guid(a6c31a9f9e41e0f49ae7668cd0cdd9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0ea7bbb99d4f5ef1fcf22eb2d871cd') in 0.040501 seconds
+  Import took 0.046431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000869 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 1.prefab
+  artifactKey: Guid(c6d9254ee008956478382f21522eb16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 1.prefab using Guid(c6d9254ee008956478382f21522eb16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec28fd2b23319f3cfde2d649cd14c7a') in 0.049783 seconds
+  Import took 0.057775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000961 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Wagon.prefab
+  artifactKey: Guid(863daed42f3b1ef4594e19af2bb77acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Wagon.prefab using Guid(863daed42f3b1ef4594e19af2bb77acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2e082ea6c1361131d68e8e08928e01') in 0.034267 seconds
+  Import took 0.040188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000789 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Van.prefab
+  artifactKey: Guid(4dbd6b04517119e4689f290eb2e4462f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Van.prefab using Guid(4dbd6b04517119e4689f290eb2e4462f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '830b32b43b7abb0171edc251c644c639') in 0.033142 seconds
+  Import took 0.037940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d696ca3457fb55c45b5f74d5adfc4f') in 0.030232 seconds
+  Import took 0.036045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000751 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1f7373431e8839cde65d8d1e73cd72') in 0.027799 seconds
+  Import took 0.032493 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002260 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -200,15 +384,887 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.033 seconds
+- Completed reload, in  2.150 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.1 MB.
-System memory in use after: 62.2 MB.
+System memory in use before: 65.2 MB.
+System memory in use after: 65.3 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1637.
-Total: 5.047300 ms (FindLiveObjects: 0.451600 ms CreateObjectMapping: 0.087600 ms MarkObjects: 4.457600 ms  DeleteObjects: 0.047400 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 3.822100 ms (FindLiveObjects: 0.453400 ms CreateObjectMapping: 0.059300 ms MarkObjects: 3.271100 ms  DeleteObjects: 0.034600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003054 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.948 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 4.739700 ms (FindLiveObjects: 0.730800 ms CreateObjectMapping: 0.232500 ms MarkObjects: 3.730000 ms  DeleteObjects: 0.042600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003731 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.379 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.3 MB.
+System memory in use after: 65.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1665.
+Total: 7.790700 ms (FindLiveObjects: 0.548400 ms CreateObjectMapping: 0.662300 ms MarkObjects: 6.532800 ms  DeleteObjects: 0.042600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 461.191134 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72e78644394c6886b5691bff4df9e06') in 0.137334 seconds
+  Import took 0.142664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.277843 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b56979254c5377c8796b935f8a3c5d') in 0.036427 seconds
+  Import took 0.042672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.652188 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d835f655c7a0bc88b1953587d40fd03') in 0.031226 seconds
+  Import took 0.038506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.458978 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6776cd1d773d262da28e09f161eefdff') in 0.035540 seconds
+  Import took 0.046340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.129758 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbeaf80fae09281aa0300202b7cf9aa9') in 0.035606 seconds
+  Import took 0.040924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.836100 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6cdec706a817bfb4db0c0ea3337460') in 0.036781 seconds
+  Import took 0.042348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.958182 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f9de0c87af90ce98889863d011b091') in 0.033152 seconds
+  Import took 0.066396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.613739 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6df07589c1d52f5300f1c30918ef871') in 0.034680 seconds
+  Import took 0.043527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.692499 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6f43789234961d4b9cefdeb2a07f11') in 0.034596 seconds
+  Import took 0.043746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.543569 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b86c5f40fe228a3887ba3ea27e5ccb') in 0.035107 seconds
+  Import took 0.040308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.738470 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7d5214a11df8c75b56698ad65d51d4') in 0.072909 seconds
+  Import took 0.078333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.528265 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d552cc310eee4fb53fbf24cea85933') in 0.034005 seconds
+  Import took 0.040784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.695311 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea1e2daf57f2e61fc17c2a0b1e3d511') in 0.031237 seconds
+  Import took 0.038500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.547832 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06779e7f5c102922dfb7ffa22b3c31d5') in 0.035221 seconds
+  Import took 0.041089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.652854 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd575b79408e9d992aae09e1465abe5') in 0.042630 seconds
+  Import took 0.049319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.376823 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5212568348685a801f3024c229b26b9c') in 0.065698 seconds
+  Import took 0.072680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.354785 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75a4f5ac4353dd850ebad5b41332c5b') in 0.058560 seconds
+  Import took 0.065099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.499632 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b4db56ccf03684ac4ce7e0e7177f29') in 0.030090 seconds
+  Import took 0.036738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.442947 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401f13dc3c7551c68d29875e4e83f8c0') in 0.032000 seconds
+  Import took 0.040889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.808133 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7c65b7430db552fcdaf9cb3aeb3b4a') in 0.054815 seconds
+  Import took 0.061417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.552745 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19061ad302766b3353e2b6ecf3f4960') in 0.059878 seconds
+  Import took 0.065934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.874014 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e30754cccc59e65cc1048508b8014c') in 0.067789 seconds
+  Import took 0.074311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.837715 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b281d64cb8b001e3450aedb0d32c4171') in 0.033109 seconds
+  Import took 0.038681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.162151 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials
+  artifactKey: Guid(8324c561f7bf6034fad8681b1dc42ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials using Guid(8324c561f7bf6034fad8681b1dc42ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05a5a2f48a514ada962652d53572f2a') in 0.010102 seconds
+  Import took 0.015492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.408598 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/TailLight.mat
+  artifactKey: Guid(b2f96e89e5d64404dac6c274612b6967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/TailLight.mat using Guid(b2f96e89e5d64404dac6c274612b6967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66cdce30b442fc09047b6e4116b9f2c4') in 0.116874 seconds
+  Import took 0.122287 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002207 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.438 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1703.
+Total: 4.434800 ms (FindLiveObjects: 0.365100 ms CreateObjectMapping: 0.077000 ms MarkObjects: 3.932700 ms  DeleteObjects: 0.056800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.043520 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eafe0bf4d0a12917267f9cf87a76ce7') in 0.141149 seconds
+  Import took 0.149022 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1707.
+Total: 4.899700 ms (FindLiveObjects: 0.480500 ms CreateObjectMapping: 0.067400 ms MarkObjects: 4.312200 ms  DeleteObjects: 0.036700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003080 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.070 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1710.
+Total: 5.199000 ms (FindLiveObjects: 0.467100 ms CreateObjectMapping: 0.085400 ms MarkObjects: 4.592600 ms  DeleteObjects: 0.048300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002563 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.089 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1713.
+Total: 4.493600 ms (FindLiveObjects: 0.406100 ms CreateObjectMapping: 0.082200 ms MarkObjects: 3.960400 ms  DeleteObjects: 0.040300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 544.034401 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9a6d50040a2e6d4faa609bc33b9e9c') in 0.129724 seconds
+  Import took 0.135258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.305838 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f970e9d387140d901779f05cf5da1b') in 0.028496 seconds
+  Import took 0.033811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.533335 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dca80ee820e5115b9c25f36ba873b3') in 0.035753 seconds
+  Import took 0.041950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030195 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dca80ee820e5115b9c25f36ba873b3') in 0.032422 seconds
+  Import took 0.037932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.661795 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65173670280df003aac1f180e9033ae3') in 0.029680 seconds
+  Import took 0.035421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.187687 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9dce5e332ac5c5d6cdc32d55366ab5e') in 0.038597 seconds
+  Import took 0.044259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.241361 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346fe330606c1c27f2209a8cd66ce9a8') in 0.028740 seconds
+  Import took 0.034113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.687982 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899c5ad97a86dc193561b6b5c180fc5d') in 0.033398 seconds
+  Import took 0.039289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.083162 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442697e62ad44f8ede72e479cd2a962e') in 0.030585 seconds
+  Import took 0.035921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.902290 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb6274088583248643eba2cffb8ecad') in 0.038286 seconds
+  Import took 0.044404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.147676 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f594837e0b0d3b012eb7b0188f348cb') in 0.037588 seconds
+  Import took 0.043500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.057415 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e826ffc8d5f351a9d46734fc02bbf8b6') in 0.034225 seconds
+  Import took 0.042970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.183361 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7b52b984823cabac1e39e68239ee49') in 0.032918 seconds
+  Import took 0.038349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.864851 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75282954dec2c8f11979d9612dc381d') in 0.039448 seconds
+  Import took 0.045600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.092941 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98aaf0c0b766884dee356b9a6e26956a') in 0.039498 seconds
+  Import took 0.045081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.869287 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20539be85a218f181a8392683280cc2') in 0.033011 seconds
+  Import took 0.038273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.193776 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d8cdaaf7da58823ebac5e12beea10a') in 0.038070 seconds
+  Import took 0.043136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.597974 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f8971fbdcbbbac588a4a7b9b7eaa91') in 0.046469 seconds
+  Import took 0.052756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.152791 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637ccc26bca2eaf4814a25c2f54dfff6') in 0.038225 seconds
+  Import took 0.044534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.532645 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83c95c5956cf1f3b15a7014cfa5bdd8') in 0.031685 seconds
+  Import took 0.036969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.727682 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8770c2b8c7b08791cda571f70c457f') in 0.033479 seconds
+  Import took 0.038705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.278288 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d9c6fe362048d36179e078945c90c7') in 0.033045 seconds
+  Import took 0.039178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.150644 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bebef7b3792bb2f99a3955ce386ac1b') in 0.036282 seconds
+  Import took 0.042473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.072427 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6efee555308300d27dcd626e9898cbe') in 0.038659 seconds
+  Import took 0.045013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.958260 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/TailLight.mat
+  artifactKey: Guid(b2f96e89e5d64404dac6c274612b6967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/TailLight.mat using Guid(b2f96e89e5d64404dac6c274612b6967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2432c5e872e31d9528cb33f27a98facc') in 0.049511 seconds
+  Import took 0.056517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001585 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/TailLight.mat
+  artifactKey: Guid(b2f96e89e5d64404dac6c274612b6967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/TailLight.mat using Guid(b2f96e89e5d64404dac6c274612b6967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2432c5e872e31d9528cb33f27a98facc') in 0.025629 seconds
+  Import took 0.033991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.386158 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/Headlight.mat
+  artifactKey: Guid(4e0762eceebb48648983ee54fa5a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/Headlight.mat using Guid(4e0762eceebb48648983ee54fa5a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a2301f6260db7d28e87e041485bd7db') in 0.026118 seconds
+  Import took 0.031746 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003187 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.6 MB.
+System memory in use after: 65.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1717.
+Total: 5.003800 ms (FindLiveObjects: 0.693200 ms CreateObjectMapping: 0.101600 ms MarkObjects: 4.150900 ms  DeleteObjects: 0.054500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.590217 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/Headlight.mat
+  artifactKey: Guid(4e0762eceebb48648983ee54fa5a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/Headlight.mat using Guid(4e0762eceebb48648983ee54fa5a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8b8f43ec7dc89f704eef434ecd89f3') in 0.165700 seconds
+  Import took 0.171531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.799514 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/Headlight.mat
+  artifactKey: Guid(4e0762eceebb48648983ee54fa5a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/Headlight.mat using Guid(4e0762eceebb48648983ee54fa5a977e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289c4b1ca1e69b0ff57d688ef0695f7b') in 0.046087 seconds
+  Import took 0.052208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.982931 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Sedan 2.prefab
+  artifactKey: Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Sedan 2.prefab using Guid(29931304be2d216448c9cf74f24d234e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20d186b5367498885fce664b43565aa') in 0.064759 seconds
+  Import took 0.070307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.819156 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d78a601ab4ffa9d39c2cf5cba909681') in 0.037444 seconds
+  Import took 0.043409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.329146 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2637558aa46a85698513e72f44f860d') in 0.027391 seconds
+  Import took 0.032606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.492658 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b5bb56bc7670860ff68342f3352e00') in 0.042248 seconds
+  Import took 0.047801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.793823 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b76394a6b30dfaef6ad852e0d39df3') in 0.034788 seconds
+  Import took 0.041707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.311642 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412085f8ea2985f091c0f7f626095939') in 0.040784 seconds
+  Import took 0.047262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.614530 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3eb52ca8a6dd8260dab0aa6e172eb0') in 0.037594 seconds
+  Import took 0.044933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.413700 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7194f270c6487089cdd6d5a6624222cf') in 0.035785 seconds
+  Import took 0.041620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.750416 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408127a4d7b8f646e55fc3260691dacc') in 0.028582 seconds
+  Import took 0.034112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.229593 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e903e490cbfd6801fcebac13c24afd3') in 0.029810 seconds
+  Import took 0.035199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.066720 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d06aaa9c31bf1d03ee3baa5f46bd9f') in 0.037156 seconds
+  Import took 0.042746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.770997 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc91312a2ed9f5c882271038568294b') in 0.035277 seconds
+  Import took 0.041973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.225978 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598d02cfcea8a543ff4db5548be16a5e') in 0.043084 seconds
+  Import took 0.050580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.777122 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf4dc98b180e7d70e7702bb596a2f7a') in 0.033568 seconds
+  Import took 0.039186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.032835 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b14cdbd17b09c8268c82567f1cb608f') in 0.037934 seconds
+  Import took 0.043464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.162494 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf9f732e8aeeedd731412afbc31f3a4') in 0.037830 seconds
+  Import took 0.044839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.971986 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3eeeec8fd8bb5a3f94399d513237a5') in 0.032487 seconds
+  Import took 0.037487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.095513 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995043ff99d953977156af24b9e49ee7') in 0.035580 seconds
+  Import took 0.041746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.714219 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7282cc482ee5861110d6793eb256539') in 0.036071 seconds
+  Import took 0.041597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.266686 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb88fdfc1776d41930e79cfe2993ef9') in 0.031353 seconds
+  Import took 0.036934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.765048 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50cb43f77cb23f794c1c46acb02522ab') in 0.038997 seconds
+  Import took 0.044491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.805444 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba61dfe5cf6ccc5869b32169faadb4cd') in 0.033347 seconds
+  Import took 0.039489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.360689 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe9a4aea4b3c3f4651d89d1b6d712d1') in 0.037599 seconds
+  Import took 0.043577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.500899 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa6beac3b7afbd19f244a4b8f536a53') in 0.035068 seconds
+  Import took 0.041607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.239482 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1482efece157971824f77fda9a6217') in 0.039840 seconds
+  Import took 0.045351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.614567 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80cf4c28f386c1613500528d7127ae1a') in 0.038222 seconds
+  Import took 0.044006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.966099 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28fb5d187b4b8e78a1120b846ef274b') in 0.031952 seconds
+  Import took 0.037688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.450305 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Police Car.prefab
+  artifactKey: Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Police Car.prefab using Guid(be0a135c5e5d861429fb6be594af3bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d2064b240343b70f17aa5738e28aa3') in 0.034320 seconds
+  Import took 0.040046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 314.963002 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/sirenlight.mat
+  artifactKey: Guid(c0eaeed13c4b1b84680bc996423c5963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/sirenlight.mat using Guid(c0eaeed13c4b1b84680bc996423c5963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f08336a47ac1f8fdf6c66b771371a79') in 0.031152 seconds
+  Import took 0.035976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.263709 seconds.
+  path: Assets/Assets/Prefabs/Traffic/Light materials/sirenlight.mat
+  artifactKey: Guid(c0eaeed13c4b1b84680bc996423c5963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefabs/Traffic/Light materials/sirenlight.mat using Guid(c0eaeed13c4b1b84680bc996423c5963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d9e80cc22d8bde152e828977ac8f78') in 0.023918 seconds
+  Import took 0.030364 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 17.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.233 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.7 MB.
+System memory in use after: 65.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1721.
+Total: 4.152300 ms (FindLiveObjects: 0.364600 ms CreateObjectMapping: 0.086900 ms MarkObjects: 3.652000 ms  DeleteObjects: 0.046200 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

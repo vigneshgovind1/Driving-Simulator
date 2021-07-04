@@ -13,6 +13,7 @@ public class TrafficWaypoint : MonoBehaviour
     private Quaternion rotation;
     private float dist;
 
+    private bool isStop;
 
     // Start is called before the first frame update
     void Start()
@@ -34,7 +35,17 @@ public class TrafficWaypoint : MonoBehaviour
 
         Patrol();
         //transform.LookAt(waypoints[waypointIndex].position);
+
+  
         
+    }
+
+    void Update(){
+        if(isStop){
+            speed=0;
+        }else{
+            speed=8;
+        }
     }
 
 
@@ -57,4 +68,19 @@ public class TrafficWaypoint : MonoBehaviour
             waypointIndex = 0;
         }
     }
+
+     void OnTriggerEnter(Collider collision)
+    {
+        if(collision.gameObject.tag == "stops"){
+            isStop = true;
+        }
+    }
+
+    void OnTriggerExit(Collider collision)
+    {
+        if(collision.gameObject.tag == "stops"){
+            isStop = false;
+        }
+    }
+
 }
