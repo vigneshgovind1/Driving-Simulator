@@ -1399,6 +1399,10 @@ PrefabInstance:
       value: Suv
       objectReference: {fileID: 0}
     - target: {fileID: 1226518946737395166, guid: a6c31a9f9e41e0f49ae7668cd0cdd9d7, type: 3}
+      propertyPath: raycastDistance
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1226518946737395166, guid: a6c31a9f9e41e0f49ae7668cd0cdd9d7, type: 3}
       propertyPath: waypoints.Array.size
       value: 4
       objectReference: {fileID: 0}
@@ -3181,6 +3185,10 @@ PrefabInstance:
     - target: {fileID: 3981109515725090563, guid: 29931304be2d216448c9cf74f24d234e, type: 3}
       propertyPath: rotateSpeed
       value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981109515725090563, guid: 29931304be2d216448c9cf74f24d234e, type: 3}
+      propertyPath: raycastDistance
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3981109515725090563, guid: 29931304be2d216448c9cf74f24d234e, type: 3}
       propertyPath: waypoints.Array.size
@@ -8002,6 +8010,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 874898040}
     m_Modifications:
+    - target: {fileID: 4145736150889957408, guid: 4dbd6b04517119e4689f290eb2e4462f, type: 3}
+      propertyPath: raycastDistance
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4145736150889957408, guid: 4dbd6b04517119e4689f290eb2e4462f, type: 3}
       propertyPath: waypoints.Array.size
       value: 4
@@ -18758,6 +18770,10 @@ PrefabInstance:
       value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 5457109559332651256, guid: be0a135c5e5d861429fb6be594af3bf7, type: 3}
+      propertyPath: raycastDistance
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457109559332651256, guid: be0a135c5e5d861429fb6be594af3bf7, type: 3}
       propertyPath: waypoints.Array.size
       value: 4
       objectReference: {fileID: 0}
@@ -24673,6 +24689,10 @@ PrefabInstance:
       value: Taxi
       objectReference: {fileID: 0}
     - target: {fileID: 4881002971301627196, guid: 7fcd487f2d008c943a6ffc7732bfa5c8, type: 3}
+      propertyPath: raycastDistance
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4881002971301627196, guid: 7fcd487f2d008c943a6ffc7732bfa5c8, type: 3}
       propertyPath: waypoints.Array.size
       value: 8
       objectReference: {fileID: 0}
@@ -29828,6 +29848,10 @@ PrefabInstance:
     - target: {fileID: 1036214939682082598, guid: 863daed42f3b1ef4594e19af2bb77acc, type: 3}
       propertyPath: m_Name
       value: Wagon
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037285649102647416, guid: 863daed42f3b1ef4594e19af2bb77acc, type: 3}
+      propertyPath: raycastDistance
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1037285649102647416, guid: 863daed42f3b1ef4594e19af2bb77acc, type: 3}
       propertyPath: waypoints.Array.size

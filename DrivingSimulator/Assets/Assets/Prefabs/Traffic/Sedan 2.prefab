@@ -269,6 +269,7 @@ MonoBehaviour:
   waypoints: []
   speed: 8
   rotateSpeed: 3
+  raycastDistance: 5
 --- !u!1 &3979295968879230445
 GameObject:
   m_ObjectHideFlags: 0

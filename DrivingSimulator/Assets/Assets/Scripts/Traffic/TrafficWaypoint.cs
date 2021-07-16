@@ -15,6 +15,8 @@ public class TrafficWaypoint : MonoBehaviour
 
     private bool isStop;
 
+    public float raycastDistance;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,8 +37,6 @@ public class TrafficWaypoint : MonoBehaviour
 
         Patrol();
         //transform.LookAt(waypoints[waypointIndex].position);
-
-  
         
     }
 
@@ -45,17 +45,37 @@ public class TrafficWaypoint : MonoBehaviour
         //to make vehicle stop on red light trigger
         if(isStop){
 
-            speed=0;
+            speed=0f;
 
         } else {
 
-            speed=8;
+            speed=8f;
         }
     }
 
 
     private void Patrol()
     {
+        // places a raycast forward which detects other vehicles
+        var ray = new Ray(this.transform.position, this.transform.forward);
+        RaycastHit hit;
+
+        if (Physics.Raycast(ray, out hit, raycastDistance))
+        {
+            if (hit.transform.gameObject.tag == "traffic" || transform.gameObject.tag == "Player") 
+            {
+                Debug.Log("You are in range of another car");
+                speed = 0f;
+            }
+
+            else
+            {
+                speed = 8f;
+            }
+        }
+
+
+
         //to make the vehicle move towards the looking direction
         transform.Translate(Vector3.forward * speed * Time.deltaTime);
         //to rotate the vehicle towards the waypoint
@@ -89,13 +109,12 @@ public class TrafficWaypoint : MonoBehaviour
     }
 
 
-    /*private void OnCollisionEnter(Collision collision)
+
+
+    private void OnDrawGizmos()
     {
-        if (collision.gameObject.tag == "Player")
-        {
-            speed = 0;
-            Debug.Log("Hit the player");
-        }
-    }*/
+        Gizmos.color = Color.red;
+        Gizmos.DrawRay(transform.position, transform.forward * raycastDistance);
+    }
 
 }
