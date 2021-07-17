@@ -40,7 +40,7 @@ public class TrafficWaypoint : MonoBehaviour
         
     }
 
-    void Update(){
+    /*void Update(){
 
         //to make vehicle stop on red light trigger
         if(isStop){
@@ -52,6 +52,7 @@ public class TrafficWaypoint : MonoBehaviour
             speed=8f;
         }
     }
+    */
 
 
     private void Patrol()
@@ -62,7 +63,7 @@ public class TrafficWaypoint : MonoBehaviour
 
         if (Physics.Raycast(ray, out hit, raycastDistance))
         {
-            if (hit.transform.gameObject.tag == "traffic" || transform.gameObject.tag == "Player") 
+            if (hit.transform.gameObject.tag == "traffic" || hit.transform.gameObject.tag == "Player" || hit.transform.tag == "stops") 
             {
                 Debug.Log("You are in range of another car");
                 speed = 0f;
@@ -72,6 +73,11 @@ public class TrafficWaypoint : MonoBehaviour
             {
                 speed = 8f;
             }
+        }
+
+        else
+        {
+            speed = 8f;
         }
 
 
@@ -94,7 +100,9 @@ public class TrafficWaypoint : MonoBehaviour
         }
     }
 
-     void OnTriggerEnter(Collider collision)
+
+
+    /* void OnTriggerEnter(Collider collision)
     {
         if(collision.gameObject.tag == "stops"){
             isStop = true;
@@ -107,7 +115,7 @@ public class TrafficWaypoint : MonoBehaviour
             isStop = false;
         }
     }
-
+    */
 
 
 
