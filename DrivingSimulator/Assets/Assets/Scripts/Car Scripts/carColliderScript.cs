@@ -87,7 +87,7 @@ public class carColliderScript : MonoBehaviour
             Debug.Log("You hit a car!");
         }
 
-        else if (collision.gameObject.tag == "trafficlight")
+        else if (collision.gameObject.tag == "trafficLight")
         {
             message.enabled = true;
             timeToDisappear = Time.time + timeToAppear;

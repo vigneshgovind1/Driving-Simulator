@@ -12,7 +12,7 @@ TagManager:
   - NPC
   - stops
   - traffic
-  - trafficlight
+  - trafficLight
   layers:
   - Default
   - TransparentFX

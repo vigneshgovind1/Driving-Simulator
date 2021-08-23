@@ -1705,6 +1705,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &36338678 stripped
@@ -1841,6 +1845,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -3896,6 +3904,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -8017,6 +8029,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &182111337 stripped
@@ -8245,6 +8261,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &186162373 stripped
@@ -8443,6 +8463,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -9093,6 +9117,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -9831,6 +9859,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!1001 &228536002
@@ -10339,6 +10371,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -11079,6 +11115,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -11914,6 +11954,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &279762614 stripped
@@ -12302,6 +12346,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &285694354 stripped
@@ -12533,6 +12581,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -13530,6 +13582,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &308221022 stripped
@@ -13761,6 +13817,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -16147,6 +16207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &388222982 stripped
@@ -16216,6 +16280,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -17261,6 +17329,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &416717229 stripped
@@ -17928,6 +18000,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -19870,6 +19946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &473382169 stripped
@@ -20108,6 +20188,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     - target: {fileID: 7567596376061326862, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -20210,6 +20294,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -20404,6 +20492,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -20651,6 +20743,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &495138663 stripped
@@ -20852,6 +20948,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -22320,6 +22420,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &518570191 stripped
@@ -22389,6 +22493,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -23502,6 +23610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &542571935 stripped
@@ -24417,6 +24529,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!1001 &560169133
@@ -25203,6 +25319,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &579341098 stripped
@@ -25791,6 +25911,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -27726,6 +27850,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &652045156 stripped
@@ -28563,6 +28691,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &676192242 stripped
@@ -28932,6 +29064,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &688950105 stripped
@@ -29241,6 +29377,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &694539711 stripped
@@ -29484,6 +29624,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -31673,6 +31817,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &751973105 stripped
@@ -33809,6 +33957,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (80)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &804196348 stripped
@@ -34387,6 +34539,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &819256722 stripped
@@ -34591,6 +34747,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -34960,6 +35120,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -35707,6 +35871,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &846532368 stripped
@@ -36055,6 +36223,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -38313,6 +38485,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &922013536 stripped
@@ -38387,6 +38563,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -38789,6 +38969,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -40934,6 +41118,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &988675235 stripped
@@ -42422,6 +42610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1038470966 stripped
@@ -42836,6 +43028,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1050441289 stripped
@@ -43227,6 +43423,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -45532,6 +45732,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -48958,6 +49162,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1191018954 stripped
@@ -49470,6 +49678,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -52118,6 +52330,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1252170035 stripped
@@ -53370,6 +53586,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -55246,6 +55466,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1334932718 stripped
@@ -55451,6 +55675,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -56460,6 +56688,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -57837,6 +58069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1424286218 stripped
@@ -58675,6 +58911,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1443008599 stripped
@@ -59232,6 +59472,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -60100,6 +60344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1470107115 stripped
@@ -60676,6 +60924,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -61401,6 +61653,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -64007,6 +64263,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1556290046 stripped
@@ -64652,6 +64912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1568250873 stripped
@@ -65270,6 +65534,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -72069,6 +72337,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1754217527 stripped
@@ -72319,6 +72591,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1768908337 stripped
@@ -72388,6 +72664,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -72977,6 +73257,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -73958,6 +74242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1807691469 stripped
@@ -74284,6 +74572,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -74644,6 +74936,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -76292,6 +76588,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!1 &1880094358
@@ -76712,6 +77012,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1887109640 stripped
@@ -76951,6 +77255,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -77256,6 +77564,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1892839233 stripped
@@ -77325,6 +77637,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -78130,6 +78446,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -79059,6 +79379,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1932597113 stripped
@@ -79128,6 +79452,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -79639,6 +79967,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -80404,6 +80736,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &1961755549 stripped
@@ -80543,6 +80879,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
@@ -84310,6 +84650,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!1001 &2043129212
@@ -86373,6 +86717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &2088895077 stripped
@@ -87702,6 +88050,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!1001 &2120408008
@@ -88680,6 +89032,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
 --- !u!4 &2128820234 stripped
@@ -88872,6 +89228,10 @@ PrefabInstance:
     - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
       propertyPath: m_Name
       value: TB_CITY_Prop_TrafficLight_VSet_Yellow (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6633080127110929628, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
+      propertyPath: m_TagString
+      value: trafficLight
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b69a958bce13ff24b851eab849a67a40, type: 3}
